@@ -1,0 +1,13 @@
+tipo:Eco:18000:500.0
+tipo:Super:21000:600.0
+tipo:Corriente:16000:2000.0
+tipo:Diesel:20000:800.0
+surtidor:Antonio:Eco:0.0:Super:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Manuela:Eco:0.0:Super:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Antonio:Eco:0.0:Super:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Ana:Eco:0.0:Super:0.0:Corriente:0.0:Diesel:0.0
+empleado:Manuela:0
+empleado:Ana:0
+empleado:John:0
+empleado:Juan:0
+empleado:Antonio:0
